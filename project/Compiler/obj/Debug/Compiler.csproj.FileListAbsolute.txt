@@ -1,0 +1,14 @@
+D:\الكلية\plc project\smproj\Compiler\bin\Debug\Compiler.exe.config
+D:\الكلية\plc project\smproj\Compiler\bin\Debug\Compiler.exe
+D:\الكلية\plc project\smproj\Compiler\bin\Debug\Compiler.pdb
+D:\الكلية\plc project\smproj\Compiler\bin\Debug\CalithaLib.dll
+D:\الكلية\plc project\smproj\Compiler\bin\Debug\GoldParserEngine.dll
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.csproj.AssemblyReference.cache
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.csproj.SuggestedBindingRedirects.cache
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.Form1.resources
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.csproj.CopyComplete
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.exe
+D:\الكلية\plc project\smproj\Compiler\obj\Debug\Compiler.pdb
