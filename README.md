@@ -1,22 +1,15 @@
 # Samsam_Programming_Language
 ### New Programming language based on python, C# using Goldparser 5.2v and Calitha engine.
-![image](https://user-images.githubusercontent.com/126702812/231048627-d8db3007-a8b5-4b17-9789-ef0b121a493e.png)
+![image](https://user-images.githubusercontent.com/126702812/231052728-c36cbdb9-0f48-4135-b76d-90e4ccf27a0b.png)
 
-## This grammar defines a programming language syntax that includes the following components:
-#### - Terminals: identifiers, integers, and floating-point numbers.
-#### - Non-terminals: program, constant, assignment, declaration, for loop, while loop, switch statement, if-else statement, expressions, statement list, and arithmetic operations.
-#### - The program starts with the keyword "Start" and ends with "End" surrounded by braces.
-#### - The constant non-terminal can have an assignment or declaration followed by a statement list, a for loop, a while loop, a switch statement, or an if-else statement.
-#### - The assignment non-terminal assigns a value to an identifier.
-#### - The declaration non-terminal initializes an identifier with an integer or a floating-point number.
-#### - The for loop has three parts: initialization, condition, and increment/decrement.
-#### - The while loop executes a statement list while a condition is true.
-#### - The switch statement executes a statement list based on the value of an identifier.
-#### - The if-else statement executes a statement list if a condition is true and executes an alternative statement list if it's false.
-#### - The expression non-terminal compares an identifier with an integer, true or false, or uses logical negation.
-#### - The statement list can have a constant, an arithmetic operation, or be empty.
-#### - The arithmetic operations can be addition, subtraction, division, or multiplication, with the possibility of an identifier being assigned a value based on the operation.
+###This is a simple programming language grammar with non-case-sensitive syntax. It has several terminals including ID, Integer, and Float. The grammar defines a program starting with the "Start" keyword and ending with the "End" keyword. The program contains a set of statements enclosed in curly braces.
+
+###Statements include assignments, declarations, loops (for and while), switch statements, and conditional statements (if and if-else). The grammar supports arithmetic operations such as addition, subtraction, multiplication, and division.
+
+###The language also supports increment and decrement operations, as well as compound assignment operations. The grammar defines the structure of expressions for various comparisons, such as less than, greater than, equal to, and not equal to.
+
+###Overall, this grammar defines the basic structure and operations of a programming language.
 
 ## And The Complier: 
-![image](https://user-images.githubusercontent.com/126702812/231049058-db5fea1d-ea98-4fa1-934b-aa37d44f462b.png)
-![image](https://user-images.githubusercontent.com/126702812/231049081-8b1351bf-ee51-4e8f-827e-5f8dc3d7e41b.png)
+![image](https://user-images.githubusercontent.com/126702812/231052919-7a3acf6e-1655-46de-bd7f-73b2847b246f.png)
+![image](https://user-images.githubusercontent.com/126702812/231052988-f3c81f8a-7ef4-44a7-8df5-2788eb0acbcf.png)
